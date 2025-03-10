@@ -1,2 +1,3 @@
 # sneha-rep-proj
-online banking creating a new branch to learn
+online computer store creating a new branch to learn
+this will help people to purchase new computers
