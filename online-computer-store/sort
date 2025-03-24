@@ -1,0 +1,9 @@
+public class SortArray 
+{
+ public static void main(String[] args) 
+ {
+   int[] array = {10,7,3,11,23};
+   Arrays.sort(array);
+   System.out.println(“Sorted array in ascending order: ” + Arrays.toString(array));
+ }
+}
